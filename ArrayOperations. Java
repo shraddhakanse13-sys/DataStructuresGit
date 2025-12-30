@@ -1,4 +1,5 @@
- // Sorting logic branch
+// Array operations branch
+// Sorting logic branch
 import java.util.Scanner;
 
 public class ArrayOperations {
